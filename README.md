@@ -17,7 +17,7 @@ This project was a part of the Ironhack Data Analysis Bootcamp 2022 at [Ironhack
 * [Authors](#authors)
 
 # Project Description
-In recent years the sneaker market has been exploding. One niche within this market is the reseller market, where people buy sneaker to shortly flip them for profit. The sneaker resale market itself is expected to grow for many years to come. But what does make certain sneaker perform better than others? 
+In recent years the sneaker market has been exploding. One niche within this market is the reseller market, where people buy sneaker to flip them for profit. The sneaker resale market itself is expected to grow for many years to come. But what does make certain sneaker perform better than others? 
 
 This we aim to find out by predicting the profitability of sneakers expressed as a ratio of reseller and retail price from the perspective of a reseller. In other words, we want to know what features can help us identify the next big hype sneaker.
 
